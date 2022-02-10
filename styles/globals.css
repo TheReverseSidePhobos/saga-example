@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+.btn{
+  border: 2px solid seagreen;
+  border-radius: 7px;
+  padding: 10px;
+  background-color: #fff;
+
+}
+.btn:hover{
+  cursor: pointer;
+  background-color: seagreen;
+  color: #fff;
+}
